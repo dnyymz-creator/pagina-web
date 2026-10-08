@@ -217,6 +217,8 @@ img {
 #team-track > div.shrink-0:nth-child(4) { animation-delay: .12s; }
 #team-track > div.shrink-0:nth-child(5) { animation-delay: .16s; }
 #team-track > div.shrink-0:nth-child(6) { animation-delay: .20s; }
+#team-track > div.shrink-0:nth-child(7) { animation-delay: .24s; }
+#team-track > div.shrink-0:nth-child(8) { animation-delay: .28s; }
 
 /* ---------------------------------------------------------
    ACCESIBILIDAD / REDUCED MOTION
